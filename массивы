@@ -1,6 +1,6 @@
 using System;
 
-namespace Massive_zad3
+namespace Massive
 {
     class Program
     {
